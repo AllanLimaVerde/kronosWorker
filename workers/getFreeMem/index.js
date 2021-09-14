@@ -1,4 +1,3 @@
-
 const intervalInSeconds = 1
 const job = require('./job')
 
